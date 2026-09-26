@@ -35,6 +35,14 @@ export default function Home() {
             <Link className="button button--warning button--lg" to="/getting-started">
               Get started
             </Link>
+            <a
+              className="button button--secondary button--lg"
+              href="https://dukadesk-register-merchant.netlify.app/login"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Open Merchant App ↗
+            </a>
             <Link
               className="button button--outline button--lg"
               style={{ color: '#fff', borderColor: 'rgba(255,255,255,0.4)' }}

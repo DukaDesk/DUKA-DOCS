@@ -59,8 +59,8 @@ const config = {
             label: 'User Guide',
           },
           {
-            href: 'https://github.com',
-            label: 'Merchant App',
+            href: 'https://dukadesk-register-merchant.netlify.app/login',
+            label: 'Open Merchant App',
             position: 'right',
           },
         ],
@@ -82,6 +82,15 @@ const config = {
               { label: 'Products & Inventory', to: '/products-inventory' },
               { label: 'Orders', to: '/orders' },
               { label: 'Billing', to: '/billing' },
+            ],
+          },
+          {
+            title: 'Merchant App',
+            items: [
+              {
+                label: 'Open Merchant App (Login)',
+                href: 'https://dukadesk-register-merchant.netlify.app/login',
+              },
             ],
           },
         ],

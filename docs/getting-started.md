@@ -6,7 +6,7 @@ sidebar_position: 2
 
 ## 1. Create your account
 
-1. Open the Merchant app and go to **Sign Up** (`/signup`).
+1. Open the [Merchant app](https://dukadesk-register-merchant.netlify.app/login) and go to **Sign Up** (`/signup`).
 2. Enter your **name, email and password**. Confirm the OTP if asked.
 3. You land on **Onboarding** (`/onboarding`) if your shop has no category yet.
 
