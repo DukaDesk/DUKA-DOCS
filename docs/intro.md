@@ -8,7 +8,7 @@ This site explains **how to use the DukaDesk Merchant app** day to day: from sig
 
 ## Who is this for?
 
-- **Shop owners / tenant owners** setting up their business
+- **Shop owners / merchant owners** setting up their business
 - **Managers and sales staff** running daily operations
 - **Support / ops** helping merchants publish and troubleshoot
 
